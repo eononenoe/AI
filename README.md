@@ -5,6 +5,7 @@
 
 ###  Node.js 설치
 [Node.js 공식 사이트](https://nodejs.org/ko/download)에서 Windows 버전 다운로드(LTS 버전 권장)
+
 ```
 node --version # v18이상
 npm --version
